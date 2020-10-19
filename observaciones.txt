@@ -1,3 +1,4 @@
 - El proyecto no tiene los nombres de los integrantes.
--Falta el pie de página.
--Debe corregir el header de la vista: registrate y los iconos del formulario.
+- Falta el pie de página.
+- Debe corregir el header de la vista: registrate y los iconos del formulario.
+- No se visualiza la carpeta con el diseño.
