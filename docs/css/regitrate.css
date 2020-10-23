@@ -27,11 +27,8 @@
 .nav-link{
     color: var(--white);
     text-transform: uppercase;
+}
 
-}.form-control, .btn{
-    border-radius: 0;
-  }
-  
 section {
     padding: 6rem 0;
 }
@@ -40,14 +37,6 @@ body{
     font-family: 'Raleway', sans-serif  !important;
 }
 
-body {
-  height: 100%;
-  margin: 0;
-  background: url(../img/holaaa.png) no-repeat center center fixed;
-}
-header{
-padding-top: 6rem ; 
-}
 
 .card-header{
 background: transparent;
