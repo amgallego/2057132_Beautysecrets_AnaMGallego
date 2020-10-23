@@ -1,4 +1,6 @@
-- El proyecto no tiene los nombres de los integrantes.
-- Falta el pie de página.
-- Debe corregir el header de la vista: registrate y los iconos del formulario.
-- No se visualiza la carpeta con el diseño.
+- El proyecto no tiene los nombres de los integrantes. (ok)
+- Falta el pie de página. (ok)
+- Deben mejorar el footer.
+- Debe corregir el header de la vista: registrate y los iconos del formulario.(ok)
+- No se visualiza la carpeta con el diseño. (ok)
+- Deben estandarizar los estilos, pasa que en algunas vistas algunos elementos tienen estilos diferentes (botones sobre todo)
